@@ -134,3 +134,7 @@ XF86AudioMute
 # File manager
 super + e
   thunar
+
+# Screenshot
+super + shift + s
+  flameshot gui
