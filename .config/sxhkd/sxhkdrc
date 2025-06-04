@@ -130,3 +130,7 @@ XF86Audio{Raise,Lower}Volume
 
 XF86AudioMute
   pulsemixer --toggle-mute
+
+# File manager
+super + e
+  thunar
